@@ -1,5 +1,6 @@
 # Byte-kompilierte Dateien und C-Erweiterungen
 __pycache__/
+.pyc
 *.py[cod]
 *$py.class
 
