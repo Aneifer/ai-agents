@@ -10,7 +10,7 @@ venv/
 ENV/
 .venv/
 .env
-ai-agents
+ai-agents/
 
 # Distribution/Packaging
 .Python
