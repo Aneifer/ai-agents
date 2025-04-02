@@ -10,6 +10,7 @@ venv/
 ENV/
 .venv/
 .env
+ai-agents
 
 # Distribution/Packaging
 .Python
@@ -71,7 +72,7 @@ target/
 
 # pyenv
 .python-version
-/ai-agents
+
 
 # Celery Beat Schedule Datei
 celerybeat-schedule
